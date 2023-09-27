@@ -1,0 +1,25 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/socket.io-client": "^3.0.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scroll-to-bottom": "^4.2.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
